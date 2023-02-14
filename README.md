@@ -2,7 +2,7 @@
 This an ai-based python chatbot. This an example of an basic ai program.
 
 
-# Code simplicity-
+# Code simplicity- \N
 Modules used- 
 Random,Wikipedia,Time.
 Uses-You can gt information through Wikipedia without even searching like ChatGpt.
