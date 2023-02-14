@@ -2,15 +2,15 @@
 This an ai-based python chatbot. This an example of an basic ai program.
 
 
-# code simplicity-
+# Code simplicity-
 Modules used- 
-  random,
-  wikipedia*,
-  time,
+  • Random,
+  • Wikipedia*,
+  • Time,
 Uses-
   • You can gt information through Wikipedia without even searching like ChatGpt.
 Working -
-  •  basic - We have all phrases in that in form of list 
+  •  Basic - We have all phrases in that in form of list. 
      Advance - Store in an Json file an import it an use it.
   •  Functions -
           1) Take an INPUT and CHECK which phrase it is and give the reply.
