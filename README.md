@@ -9,7 +9,7 @@ This an ai-based python chatbot. This an example of an basic ai program.
  
  ## Working -
  
- The '''generate_response''' function takes the user's input, checks it against the keywords defined in the various functions, and returns an appropriate response based on the highest-priority keyword matched.
+ The `generate_response` function takes the user's input, checks it against the keywords defined in the various functions, and returns an appropriate response based on the highest-priority keyword matched.
  
  ## Pros-
  
