@@ -65,4 +65,4 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
   - Personal assistance: The chatbot could be adapted to provide personal assistance, such as scheduling reminders, making reservations, or even ordering groceries or other goods and services.
 
- - Education: The chatbot could be used in educational settings to provide students with interactive lessons and quizzes, or to provide feedback and support for online courses.
+  - Education: The chatbot could be used in educational settings to provide students with interactive lessons and quizzes, or to provide feedback and support for online courses.
