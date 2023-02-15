@@ -3,9 +3,9 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
 # Practical Understanding 
 ## Modules used
- - Random (version 1.0.1) - [Documentation](https://docs.python.org/3/library/random.html)
- - Wikipedia (version 1.4.0) - [Documentation](https://pypi.org/project/wikipedia/)
- - Time (version 0.3.0) - [Documentation](https://docs.python.org/3/library/time.html)
+ - `Random` (version 1.0.1) - [Documentation](https://docs.python.org/3/library/random.html)
+ - `Wikipedia`  (version 1.4.0) - [Documentation](https://pypi.org/project/wikipedia/)
+ - `Time`  (version 0.3.0) - [Documentation](https://docs.python.org/3/library/time.html)
  
  ## Working 
  
