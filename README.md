@@ -22,9 +22,9 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
   * Features of the chatbot include:
 
-    - Greeting: The chatbot can greet the user with various responses such as "hi", "hello", and "hey".
+   - Greeting: The chatbot can greet the user with various responses such as "hi", "hello", and "hey".
 
-    - Responding to inquiries: The chatbot can respond to inquiries about the user's well-being with responses like "I'm good, thanks for asking!" and "I'm doing well, thanks!".
+   - Responding to inquiries: The chatbot can respond to inquiries about the user's well-being with responses like "I'm good, thanks for asking!" and "I'm doing well, thanks!".
 
    - Responding to other phrases: The chatbot can respond to certain phrases like "nice", "good", and "great" with responses like "yes" and "yeah".
 
