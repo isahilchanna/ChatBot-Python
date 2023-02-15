@@ -70,6 +70,7 @@ This an ai-based python chatbot. This an example of an basic ai program.
   - The chatbot's responses are limited to specific keywords or phrases, which may not cover all possible user inputs.
   * The chatbot's use of the Wikipedia API may not always return the most accurate or up-to-date information.
   + The chatbot is limited to text-based communication and cannot respond to voice or visual inputs.
+
 -Future plans
  
  - Our future plans is to make more efficient and not just to bound the program to specific responses.
