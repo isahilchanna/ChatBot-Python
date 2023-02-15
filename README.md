@@ -48,8 +48,8 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
   Similarly, the `inquiry` function checks if the user's input contains any pre-defined inquiry phrases, and if a match is found, returns a random response from a list of possible answers.
 
- The chatbot also includes functions to respond to certain other phrases and to answer user questions using the Wikipedia API. The `generate_response` function calls these functions based on the user's input to determine the appropriate response.
+  The chatbot also includes functions to respond to certain other phrases and to answer user questions using the Wikipedia API. The `generate_response` function calls these functions based on the user's input to determine the appropriate response.
 
- Finally, the chatbot includes a `while` loop that continuously accepts input from the user and generates responses until the user types "exit" to terminate the program.
+  Finally, the chatbot includes a `while` loop that continuously accepts input from the user and generates responses until the user types "exit" to terminate the program.
 
- Overall, the code is a simple demonstration of how a chatbot can be built using Python, but there is certainly room for further development and improvement, such as adding more features, improving the natural language processing, and enhancing the user experience.
+  Overall, the code is a simple demonstration of how a chatbot can be built using Python, but there is certainly room for further development and improvement, such as adding more features, improving the natural language processing, and enhancing the user experience.
