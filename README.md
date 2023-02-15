@@ -24,11 +24,11 @@ This an ai-based python chatbot. This an example of an basic ai program.
 # Theoretical Understanding- 
 + Introduction to the chatbot:
 
-The chatbot is a program written in Python that can communicate with users by interpreting and responding to text-based inputs. The chatbot is designed to respond to certain keywords or phrases, such as greetings, inquiries about the user's well-being, and questions asked by the user. The chatbot is also capable of using the Wikipedia API to provide information and answer user questions.
+  The chatbot is a program written in Python that can communicate with users by interpreting and responding to text-based inputs. The chatbot is designed to respond to certain keywords or phrases, such as greetings, inquiries about the user's well-being, and questions asked by the user. The chatbot is also capable of using the Wikipedia API to provide information and answer user questions.
 
-The purpose of the chatbot is to provide a user-friendly and interactive experience for those who interact with it. By responding to user inputs in a conversational manner, the chatbot can create a more engaging and personalized experience for the user. The chatbot can also be used in a variety of settings, such as customer service, education, and entertainment, among others.
+  The purpose of the chatbot is to provide a user-friendly and interactive experience for those who interact with it. By responding to user inputs in a conversational manner, the chatbot can create a more engaging and personalized experience for the user. The chatbot can also be used in a variety of settings, such as customer service, education, and entertainment, among others.
 
-The chatbot's functionality and capabilities can be further developed and improved with additional programming and integration with other tools and technologies. Ultimately, the chatbot has the potential to be a powerful and versatile tool for interacting with users in a variety of contexts.
+  The chatbot's functionality and capabilities can be further developed and improved with additional programming and integration with other tools and technologies. Ultimately, the chatbot has the potential to be a powerful and versatile tool for interacting with users in a variety of contexts.
 
 * Features of the chatbot include:
 
