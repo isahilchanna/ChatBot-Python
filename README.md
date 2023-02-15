@@ -13,11 +13,11 @@ This an ai-based python chatbot. This an example of an basic ai program.
  
  ## Pros-
  
-    - The code is written in Python, a widely used and popular programming language.
-    * The chatbot responds to different types of inputs, such as greetings, inquiries about the user's well-being, and questions asked by the user.
-    + The chatbot uses the Wikipedia API to answer user questions.
-    - The chatbot provides a default response when it doesn't understand the user's input.
-    * The code is easy to understand and modify if needed, with each function focusing on a specific keyword or phrase and returning a corresponding response.
+   - The code is written in Python, a widely used and popular programming language.
+   * The chatbot responds to different types of inputs, such as greetings, inquiries about the user's well-being, and questions asked by the user.
+   + The chatbot uses the Wikipedia API to answer user questions.
+   - The chatbot provides a default response when it doesn't understand the user's input.
+   * The code is easy to understand and modify if needed, with each function focusing on a specific keyword or phrase and returning a corresponding response.
 
 ## Cons-
 
