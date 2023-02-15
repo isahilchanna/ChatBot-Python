@@ -1,17 +1,17 @@
 # ChatBot
 This an ai-based python chatbot. This an example of an basic ai program.
 
-# Practical Understanding -
-## Modules used- 
+# Practical Understanding 
+## Modules used
  - Random (version 1.0.1) - [Documentation](https://docs.python.org/3/library/random.html)
  - Wikipedia (version 1.4.0) - [Documentation](https://pypi.org/project/wikipedia/)
  - Time (version 0.3.0) - [Documentation](https://docs.python.org/3/library/time.html)
  
- ## Working -
+ ## Working 
  
  The `generate_response` function takes the user's input, checks it against the keywords defined in the various functions, and returns an appropriate response based on the highest-priority keyword matched.
 
-# Theoretical Understanding- 
+# Theoretical Understanding 
   + Introduction to the chatbot:
 
     The chatbot is a program written in Python that can communicate with users by interpreting and responding to text-based inputs. The chatbot is designed to respond to certain keywords or phrases, such as greetings, inquiries about the user's well-being, and questions asked by the user. The chatbot is also capable of using the Wikipedia API to provide information and answer user questions.
@@ -20,7 +20,7 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
     The chatbot's functionality and capabilities can be further developed and improved with additional programming and integration with other tools and technologies. Ultimately, the chatbot has the potential to be a powerful and versatile tool for interacting with users in a variety of contexts.
 
-  * Features of the chatbot include:
+  * Features of the chatbot include
 
    - Greeting: The chatbot can greet the user with various responses such as "hi", "hello", and "hey".
 
@@ -31,7 +31,7 @@ This an ai-based python chatbot. This an example of an basic ai program.
    - Answering user questions: The chatbot can respond to the user's request to ask a question by using the Wikipedia API to provide information and answer the user's question.
 
    - Exiting the chat: The user can exit the chat by typing "exit".
- + Design and Development - 
+ + Design and Development 
 
     A simple chatbot that can respond to certain user inputs using pre-defined responses. The chatbot is designed to work in a loop, continuously accepting input from the user  and generating responses until the user chooses to exit the program.
 
@@ -45,7 +45,7 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
     Overall, the code is a simple demonstration of how a chatbot can be built using Python, but there is certainly room for further development and improvement, such as adding more features, improving the natural language processing, and enhancing the user experience.
 
- + Applications of Chatbot-
+ + Applications of Chatbot
 
    - Customer service: The chatbot can be used as an initial point of contact for customer inquiries, providing automated responses to common questions and routing more complex queries to human support staff.
 
@@ -58,14 +58,14 @@ This an ai-based python chatbot. This an example of an basic ai program.
    - Education: The chatbot could be used in educational settings to provide students with interactive lessons and quizzes, or to provide feedback and support for online courses.
 
  
-+ Pros-
++ Pros
   - The code is written in Python, a widely used and popular programming language.
   * The chatbot responds to different types of inputs, such as greetings, inquiries about the user's well-being, and questions asked by the user.
   + The chatbot uses the Wikipedia API to answer user questions.
   - The chatbot provides a default response when it doesn't understand the user's input.
   * The code is easy to understand and modify if needed, with each function focusing on a specific keyword or phrase and returning a corresponding response.
 
-- Cons-
+- Cons
 
   - The chatbot's responses are limited to specific keywords or phrases, which may not cover all possible user inputs.
   * The chatbot's use of the Wikipedia API may not always return the most accurate or up-to-date information.
