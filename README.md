@@ -22,15 +22,15 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
   * Features of the chatbot include
 
-   - Greeting: The chatbot can greet the user with various responses such as "hi", "hello", and "hey".
+    - Greeting: The chatbot can greet the user with various responses such as "hi", "hello", and "hey".
 
-   - Responding to inquiries: The chatbot can respond to inquiries about the user's well-being with responses like "I'm good, thanks for asking!" and "I'm doing well, thanks!".
+    - Responding to inquiries: The chatbot can respond to inquiries about the user's well-being with responses like "I'm good, thanks for asking!" and "I'm doing well, thanks!".
 
-   - Responding to other phrases: The chatbot can respond to certain phrases like "nice", "good", and "great" with responses like "yes" and "yeah".
+    - Responding to other phrases: The chatbot can respond to certain phrases like "nice", "good", and "great" with responses like "yes" and "yeah".
 
-   - Answering user questions: The chatbot can respond to the user's request to ask a question by using the Wikipedia API to provide information and answer the user's question.
+    - Answering user questions: The chatbot can respond to the user's request to ask a question by using the Wikipedia API to provide information and answer the user's question.
 
-   - Exiting the chat: The user can exit the chat by typing "exit".
+    - Exiting the chat: The user can exit the chat by typing "exit".
  + Design and Development 
 
     A simple chatbot that can respond to certain user inputs using pre-defined responses. The chatbot is designed to work in a loop, continuously accepting input from the user  and generating responses until the user chooses to exit the program.
