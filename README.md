@@ -9,6 +9,10 @@ This an ai-based python chatbot. This an example of an basic ai program.
  - `Wikipedia`  (version 1.4.0) - [Documentation](https://pypi.org/project/wikipedia/)
  - `Time`  (version 0.3.0) - [Documentation](https://docs.python.org/3/library/time.html)
  - And many more...
+>[!IMPORTANT]
+>Working and all is not here 'cause it has a lot of files for practicing
+>So, explaining would be not possible
+
 
 # Applications of Chatbot
 
@@ -22,9 +26,7 @@ This an ai-based python chatbot. This an example of an basic ai program.
 
    - Education: The chatbot could be used in educational settings to provide students with interactive lessons and quizzes, or to provide feedback and support for online courses.
 
->[!IMPORTANT]
->Working and all is not here 'cause it has a lot of files for practicing
->So, explaining would be not possible
+
 
 ### Future plans
  
