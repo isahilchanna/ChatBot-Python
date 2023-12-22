@@ -1,6 +1,6 @@
 # ChatBot
 This an ai-based python chatbot. This an example of an basic ai program.
->[!IMPORTANT]
+>[!Note]
 >This Branch has Voice inputs as well as Voice outputs too
 >On top of that all of them in one file too
 
