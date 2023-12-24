@@ -1,6 +1,7 @@
 # ChatBot
 This an ai-based python chatbot. This an example of an basic ai program.
-
+>[!IMPORTANT]
+>This Code/Repository is only text based chatbot with keyword matching algorithm
 # Practical Understanding 
 ## Modules used
  - `Random` (version 1.0.1) - [Documentation](https://docs.python.org/3/library/random.html)
