@@ -1,77 +1,59 @@
-# ChatBot
-This an ai-based python chatbot. This an example of an basic ai program.
->[!IMPORTANT]
->This Code/Repository is only text based chatbot with keyword matching algorithm
-# Practical Understanding 
-## Modules used
- - `Random` (version 1.0.1) - [Documentation](https://docs.python.org/3/library/random.html)
- - `Wikipedia`  (version 1.4.0) - [Documentation](https://pypi.org/project/wikipedia/)
- - `Time`  (version 0.3.0) - [Documentation](https://docs.python.org/3/library/time.html)
- 
- ## Working 
- 
- The `generate_response` function takes the user's input, checks it against the keywords defined in the various functions, and returns an appropriate response based on the highest-priority keyword matched.
+# What's a Chatbot?
+>[!Important]
+>This Branch has only text input and output
+>On top of that all of them in one file too
+- It's a computer program that can have conversations with people, like a digital friend you can chat with!
+- It uses artificial intelligence (AI) to understand what you type or say and respond in a way that makes sense.
+- It's like having a friendly robot who's always ready to talk!
 
-# Theoretical Understanding 
-  ### Introduction to the chatbot:
+## Chatbot's Key Features:
+- Greetings: It can say hi, hello, and hey in a friendly way.
+- Inquiries: It can ask how you're doing and respond to your well-being.
+- Answering Questions: It can use Wikipedia to find answers to your questions, like a mini-search engine.
+- Understanding Simple Phrases: It can get the gist of phrases like "nice" or "good" and respond appropriately.
 
-   The chatbot is a program written in Python that can communicate with users by interpreting and responding to text-based inputs. The chatbot is designed to respond to certain keywords or phrases, such as greetings, inquiries about the user's well-being, and questions asked by the user. The chatbot is also capable of using the Wikipedia API to provide information and answer user questions.
+## How It Works (Behind the Scenes):
+- It's written in Python, a popular programming language that makes it easy to understand and modify.
+- It uses a "keyword matching" algorithm, which means it looks for specific words or phrases in your messages and responds with matching answers.
+- It has different functions for different types of conversations, like greetings, inquiries, and answering questions.
+- It keeps talking until you type "exit" to end the chat.
+- Modules used :
+  -  `OS` - ([Documentation](https://docs.python.org/3/library/os.html?highlight=os#module-os))
+  -  `Smtplib` 20.12 - ([Documentation](https://docs.python.org/3/library/smtplib.html?highlight=smtplib#module-smtplib)) 
+  -  `Wikipedia` 1.4.0 - ([Documentation](https://pypi.org/project/wikipedia/))
+  -  `AppOpener`  1.7.0 - ([Documentation](https://pypi.org/project/appopener/))
+  -  `Webbrowser` ([Documentation](https://docs.python.org/3/library/webbrowser.html?highlight=webbrowser#module-webbrowser))
+  -  `Datetime` 5.4.0 ([Documentation](https://pypi.org/project/DateTime/))
+  -  `Ctypes` 1.2. ([Documentation](https://docs.python.org/3/library/ctypes.html?highlight=ctypes#module-ctypes))
+  -  `pystray` 0.19.5 ([Documentation](https://pypi.org/project/pystray/))
+  -  `scikit-learn` 1.3.2 ([Documentation](https://pypi.org/project/scikit-learn/))
+  -  `winotify` 1.1.0 ([Documentation](https://pypi.org/project/winotify/))
 
-   The purpose of the chatbot is to provide a user-friendly and interactive experience for those who interact with it. By responding to user inputs in a conversational manner, the chatbot can create a more engaging and personalized experience for the user. The chatbot can also be used in a variety of settings, such as customer service, education, and entertainment, among others.
+## Applications:
+- Personal Assistance
+- Informational services
+- Domain specific services
+- Education
 
-   The chatbot's functionality and capabilities can be further developed and improved with additional programming and integration with other tools and technologies. Ultimately, the chatbot has the potential to be a powerful and versatile tool for interacting with users in a variety of contexts.
+## Strengths:
+- Easy to understand and Modify
+- leverages Wikipedia for informational access
+- Handles diverse input types
+- Provides default responses for unkown inputs
 
-  ### Features of the chatbot include
+## Limitations:
+- Limited to pre-defined responses
+- Relies on Wikipedia for accuracy
+- Text-only interactions , no Graphic interphase
 
-   - Greeting: The chatbot can greet the user with various responses such as "hi", "hello", and "hey".
+## Cool Things About Your Chatbot:
+- It's a great example of a basic AI program, showing how you can create smart interactions with computers.
+- It has potential for lots of different uses, like helping customers, teaching students, or just being a fun companion.
 
-   - Responding to inquiries: The chatbot can respond to inquiries about the user's well-being with responses like "I'm good, thanks for asking!" and "I'm doing well, thanks!".
+## Areas for Improvement:
+- Right now, it's limited to text-based conversations. It would be awesome to give it a voice so you could talk to it instead of typing!
+- It could also be made smarter by teaching it to understand more complex language and respond in more flexible ways.
 
-   - Responding to other phrases: The chatbot can respond to certain phrases like "nice", "good", and "great" with responses like "yes" and "yeah".
-
-   - Answering user questions: The chatbot can respond to the user's request to ask a question by using the Wikipedia API to provide information and answer the user's question.
-    - Exiting the chat: The user can exit the chat by typing "exit".
- ### Design and Development 
-
-   A simple chatbot that can respond to certain user inputs using pre-defined responses. The chatbot is designed to work in a loop, continuously accepting input from the user  and generating responses until the user chooses to exit the program.
-
-   The chatbot uses several functions to determine the appropriate response based on the user's input. For example, the `greetings` function uses a for loop to iterate through the words in the user's input and check if any of them match pre-defined greetings. If a match is found, the function returns a random greeting from a list of possible responses.
-
-   Similarly, the `inquiry` function checks if the user's input contains any pre-defined inquiry phrases, and if a match is found, returns a random response from a list of possible answers.
-
-   The chatbot also includes functions to respond to certain other phrases and to answer user questions using the Wikipedia API. The `generate_response` function calls these functions based on the user's input to determine the appropriate response.
-
-   Finally, the chatbot includes a `while` loop that continuously accepts input from the user and generates responses until the user types "exit" to terminate the program.
-
-   Overall, the code is a simple demonstration of how a chatbot can be built using Python, but there is certainly room for further development and improvement, such as  adding more features, improving the natural language processing, and enhancing the user experience.
-
-### Applications of Chatbot
-
-   - Customer service: The chatbot can be used as an initial point of contact for customer inquiries, providing automated responses to common questions and routing more complex queries to human support staff.
-
-   - Informational services: The chatbot can be used to provide information on a wide range of topics, from weather forecasts and news updates to answers to more specialized questions.
-
-   - Language learning: The chatbot could be adapted to provide language learning exercises or quizzes, helping users to improve their language skills through interactive conversations.
-
-   - Personal assistance: The chatbot could be adapted to provide personal assistance, such as scheduling reminders, making reservations, or even ordering groceries or other goods and services.
-
-   - Education: The chatbot could be used in educational settings to provide students with interactive lessons and quizzes, or to provide feedback and support for online courses.
-
- 
-### Pros
-  - The code is written in Python, a widely used and popular programming language.
-  * The chatbot responds to different types of inputs, such as greetings, inquiries about the user's well-being, and questions asked by the user.
-  + The chatbot uses the Wikipedia API to answer user questions.
-  - The chatbot provides a default response when it doesn't understand the user's input.
-  * The code is easy to understand and modify if needed, with each function focusing on a specific keyword or phrase and returning a corresponding response.
-
-### Cons
-
-  - The chatbot's responses are limited to specific keywords or phrases, which may not cover all possible user inputs.
-  * The chatbot's use of the Wikipedia API may not always return the most accurate or up-to-date information.
-  + The chatbot is limited to text-based communication and cannot respond to voice or visual inputs.
-
-### Future plans
- 
- - Our future plans is to make more efficient and not just to bound the program to specific responses.
- - This plan is my personal favourite, make an voice assistant bot.
+## Exciting Future Plans:
+- Making it more efficient so it can handle conversations more smoothly.
+- Giving it a voice so you can have a real conversation with it!
