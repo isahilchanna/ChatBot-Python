@@ -1,6 +1,6 @@
 # What's a Chatbot?          
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
-[![Build Status](https://travis-ci.org/isahilchanna/repo.svg?branch=Voice_cb)](https://travis-ci.org/isahilchanna/chatbot)
+[![Build Status](https://travis-ci.org/isahilchanna/repo.svg?branch=Voice_CB)](https://travis-ci.org/isahilchanna/chatbot)
 
 >[!Note]
 >This Branch has Voice inputs as well as Voice outputs too
