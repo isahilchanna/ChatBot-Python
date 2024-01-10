@@ -2,8 +2,8 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 [![Build Status](https://travis-ci.org/isahilchanna/repo.svg?branch=master)](https://travis-ci.org/isahilchanna/chatbot)
 
->[!Note]
->This Branch has Voice inputs as well as Voice outputs too
+>[!Important]
+>This Branch is only text based.
 >On top of that all of them in one file too
 - It's a computer program that can have conversations with people, like a digital friend you can chat with!
 - It uses artificial intelligence (AI) to understand what you type or say and respond in a way that makes sense.
